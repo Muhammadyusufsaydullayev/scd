@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+ <head>
+
+  <title>html sayt</title>
+  <link rel="stylesheet" href="style3.css">
+
+  
+
+  
+ </head>
+
+ <body>
+
+  
+      <div class="container">
+         <div class="form">
+            <form >
+               <h1>Ro'yxatga olish</h1>
+                  
+               <p>
+                  
+                  Familiyangiz: <input type="text">
+                  Ismingiz: <input type="text">
+               Sharifingiz: <input type="text">
+               Tug'ilgan sanangiz: <input type="number" > 
+               Telefon raqamingiz: <input type="number"  >
+               Email: <input type="text"> 
+               Parol: <input type="password"> 
+               Oilangiz haqida ma'lumot:</p> <textarea class="box5"></textarea> <br>
+               <button class="button">Yuborish</button>
+            </form>
+
+         </div>
+
+         <div class="form1">
+            <img src="ptichka.png" alt="">
+            
+         </div>
+         
+      </div>
+
+
+  
+      
+      
+        
+     
+       
+      
+  
+
+
+
+ </body>
+</html>

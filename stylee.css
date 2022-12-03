@@ -1,0 +1,201 @@
+body , h1 ,h3{
+ margin: 0;
+
+}
+
+.buttonm {
+ margin-top: 1000px;
+}
+
+
+.container  {
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ width: 70%; /* width bilan ishlayotganda px bilan emas foiz bilan ishlagan maqul 
+ chunki px bilan ishlasez ekar katta kichik qilinganda div qatib turaveradi. foiz bilan ishlaganda esa ekran o'zgarsa ham 
+ moslashib ketadi. */
+ margin: 0 auto;
+
+
+}
+
+.box1 {
+ background-color: #555 ;
+ padding: 15px 10px ;
+ border: 2px solid red;
+
+ margin-top: 20px;
+  
+
+}
+
+.box1 h1 {
+ text-align: center;
+ text-decoration: underline;
+ font-family:sans-serif;
+ color: wheat;
+}
+
+.box1 p {
+ color: azure;
+}
+
+.box2 {
+ margin-top: 39px;
+ border: 5px dashed goldenrod;
+ padding: 15px;
+}
+
+.box2 h1 {
+ font-family: Arial, Helvetica, sans-serif;
+ color: aquamarine;
+
+
+}
+
+.box2 p {
+ color: cadetblue;
+}
+
+.button  {
+ background-color: #222;
+ color: #fff;
+ font-size: 19px;
+ padding: 5px 10px;
+ border: none;
+ border-radius: 5px;
+ 
+
+}
+
+.button:hover {
+ cursor:pointer;
+ background-color: rgb(43, 5, 5);
+ color: #fff;
+}
+
+.box3 h1  {
+ color: #555;
+ text-align: center;
+}
+
+.box3 {
+ margin: 30px 0;
+ font-family: sans-serif;
+ border: 2px solid #666;
+ padding: 10px 0;
+}
+
+.ulstyle {
+ padding: 0;
+}
+.ulstyle  li {
+ list-style: none;
+ padding: 5px 0;
+ border-bottom: 1px solid#555;
+}
+
+.myform {
+
+
+}
+.myform label {
+ display: block;
+ padding: 5px 0;
+ font-size: 20px;
+}
+
+.myform input, .myform textarea {
+ margin: 7px 0;
+ padding: 5px ;
+ width: 100%;
+}
+
+.blok {
+ float: left;
+ width: 25%;
+ border: 1px solid #222;
+ padding: 15px;
+ box-sizing: border-box;
+}
+
+.clr {
+ clear: both;
+}
+
+.content {
+ float: left;
+ width: 70%;
+}
+.saidbar {
+ float: left;
+ width: 30%;
+ background-color: #333;
+ color: #fff;
+ padding: 0 10px;
+ box-sizing: border-box;
+}
+
+.relativ {
+ position: relative; 
+ width: 500px;
+ height: 400px;
+ background-image: url(4ка.jpg);
+ background-size: cover;
+}
+
+.absolute {
+ position: absolute;
+ top: 20px;
+ left: 20px;
+
+}
+.absolute2 {
+ position: absolute;
+ top: 50px;
+ right: 10%;
+
+}
+
+.ullar {
+ list-style-type: none;
+ 
+}
+
+.absolute2 , ul {
+ 
+ left: 20px;
+ bottom: 0;
+}
+
+.fixed {
+ position: fixed;
+ top: 50%;
+ left: 0;
+}
+
+.list-items  li{
+ color: #333;
+ list-style-type: none;
+ padding: 10px;
+
+}
+.list-items li:first-child  {
+ background-color: gray;
+ color: wheat;
+
+}
+.list-items li:last-child  {
+ background-color: rgb(105, 36, 36);
+ color: wheat;
+
+}
+
+.list-items li:nth-child(even) {
+ background-color: rgb(18, 104, 97);
+ color: wheat;
+
+}
+.tabel1 {
+ border: 1px solid #333;
+}

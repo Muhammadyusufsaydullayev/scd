@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../csswebsite2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index.html"
+	}
+}
